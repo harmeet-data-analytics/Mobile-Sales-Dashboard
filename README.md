@@ -23,3 +23,6 @@ To analyze mobile sales data, monitor key performance indicators, and present bu
 ## Author
 Aspiring Data Analyst
 
+## Dashboard Preview
+
+![Mobile Sales Dashboard](mobile-sales-dashboard.png)
